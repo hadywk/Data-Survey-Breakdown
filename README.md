@@ -10,7 +10,6 @@ This project analyzes a survey of data professionals worldwide, exploring key me
 
 ## 🎥 Project Preview
 ![Dashboard Demo](https://github.com/hadywk/Data-Survey-Breakdown/blob/main/Datagif.gif)
-
 ## 🔧 Tools Used
 - **Power BI** (Data modeling, DAX, visualization)
 - **Power Query Editor** (Data transformation and cleaning)
