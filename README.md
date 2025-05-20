@@ -9,10 +9,7 @@ This project analyzes a survey of data professionals worldwide, exploring key me
 - Perceived difficulty entering the data field
 
 ## 🎥 Project Preview
-<video width="100%" controls>
-  <source src="project_preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Dashboard Demo](https://github.com/hadywk/Data-Survey-Breakdown/blob/main/Datagif.gif)
 
 ## 🔧 Tools Used
 - **Power BI** (Data modeling, DAX, visualization)
